@@ -1,0 +1,6 @@
+pandas
+matplotlib
+wordcloud
+re
+collections
+os
